@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'EdwardianScriptITC';
+  src:url('../fonts/EdwardianScriptITC.eot');
+  src:url('../fonts/EdwardianScriptITC.eot?#iefix') format('embedded-opentype'), url('../fonts/EdwardianScriptITC.woff') format('woff'), url('../fonts/EdwardianScriptITC.ttf')  format('truetype'), url('../fonts/EdwardianScriptITC.svg#EdwardianScriptITC') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MinionPro-Regular';
+  src: url('../fonts/MinionPro-Regular.eot');
+  src: url('../fonts/MinionPro-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/MinionPro-Regular.otf')  format('opentype'),
+	     url('../fonts/MinionPro-Regular.woff') format('woff'), url('../fonts/MinionPro-Regular.ttf')  format('truetype'), url('../fonts/MinionPro-Regular.svg#MinionPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CenturyGothic';
+  src: url('../fonts/CenturyGothic.eot');
+  src: url('../fonts/CenturyGothic.eot?#iefix') format('embedded-opentype'),  url('../fonts/CenturyGothic.woff') format('woff'), url('../fonts/CenturyGothic.ttf')  format('truetype'), url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FuturaBT-Light';
+  src:url('../fonts/FuturaBT-Light.eot');
+  src: url('../fonts/FuturaBT-Light.eot?#iefix') format('embedded-opentype'),  url('../fonts/FuturaBT-Light.woff') format('woff'), url('../fonts/FuturaBT-Light.ttf')  format('truetype'), url('../fonts/FuturaBT-Light.svg#FuturaBT-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LucidaGrande';
+  src: url('../fonts/LucidaGrande.eot');
+  src: url('../fonts/LucidaGrande.eot?#iefix') format('embedded-opentype'),  url('../fonts/LucidaGrande.woff') format('woff'), url('../fonts/LucidaGrande.ttf')  format('truetype'), url('../fonts/LucidaGrande.svg#LucidaGrande') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FuturaBT-Medium';
+  src:url('../fonts/FuturaBT-Medium.eot');
+  src:url('../fonts/FuturaBT-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/FuturaBT-Medium.woff') format('woff'), url('../fonts/FuturaBT-Medium.ttf')  format('truetype'), url('../fonts/FuturaBT-Medium.svg#FuturaBT-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
